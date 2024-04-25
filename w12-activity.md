@@ -2,8 +2,10 @@
 
 **1.) Flowchart**
 
-**2.) What were your challenges in performing the lab (from design to the implementation phases)?**
+![Week 12 Activity](https://github.com/ExamygenMCHS/CISC-211-Activities/assets/70991350/97745e26-5185-4f10-a89f-7f6407ecfbfd)
 
+**2.) What were your challenges in performing the lab (from design to the implementation phases)?**
+My challenge in performing the lab was that while I was working on the foobar point, I usually had the habit of not putting eax after mov DWORD[ebp-4], which caused an error while I was running it. I analyzed the error, so I put eax after DWORD[ebp-4]. Finally, I learned from this mistake.
 **3.) The code**
 ```
 section .text
