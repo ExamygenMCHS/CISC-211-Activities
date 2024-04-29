@@ -1,4 +1,4 @@
-## Task: Generate English uppercase characters from A to Z. After every character, there must be a line feed. Use procedures and loops to optimize the code. Do not use gdb debugger. The executable file will run directly on the terminal. See the output below.
+## Task: Generate English uppercase characters from A to Z. After every character, there must be a line feed. Use procedures and loops to optimize the code. Do not use gdb debugger. The executable file will run directly on the terminal. See the output below. (Due April 27th @ 11:59pm)
 
 <img src="https://user-images.githubusercontent.com/11669149/233437846-0d3dd8bb-fbc6-4f78-a6d6-29cf72d1e6a1.png" width=50%, height=50%>
 
