@@ -59,6 +59,9 @@ IN PROGRESS
 
 **3.) Output.txt file**
 ```
-IN PROGRESS
+Plain text:
+Key:
+Encrypted text:
+Decrypted text:
 ```
 **4.) A YouTube video explaining the code (MM:SS):** https://www.youtube.com/watch?v=[VideoID]
