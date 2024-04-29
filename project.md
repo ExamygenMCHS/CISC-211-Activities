@@ -33,7 +33,7 @@ IN PROGRESS
 ```
 **2.) Codes (Two separate codes)**
 
-a.) Create a file output.txt
+a.) Create a file Output.txt
 ```
 SECTION .text
         global  _start
