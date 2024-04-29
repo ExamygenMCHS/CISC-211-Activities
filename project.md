@@ -61,4 +61,4 @@ IN PROGRESS
 ```
 IN PROGRESS
 ```
-**4.) Video explaining the code (MM:SS):** https://www.youtube.com/watch?v=[VideoID]
+**4.) A YouTube video explaining the code (MM:SS):** https://www.youtube.com/watch?v=[VideoID]
