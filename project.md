@@ -59,9 +59,9 @@ IN PROGRESS
 
 **3.) Output.txt file**
 ```
-Plain text:
-Key:
-Encrypted text:
-Decrypted text:
+Plain text: AUTO
+Key: race
+Encrypted text: 347*
+Decrypted text: AUTO
 ```
 **4.) A YouTube video explaining the code (MM:SS):** https://www.youtube.com/watch?v=[VideoID]
