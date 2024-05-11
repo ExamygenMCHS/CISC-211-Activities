@@ -28,9 +28,7 @@ Decrypted text: Hello
 
 
 **1.) Flowchart**
-```
-IN PROGRESS
-```
+![Project drawio (2)](https://github.com/ExamygenMCHS/CISC-211-Activities/assets/70991350/609034a2-531b-4154-8b8c-cfe9ed1b41b4)
 **2.) Codes (Two separate codes)**
 
 a.) Create a file Output.txt
