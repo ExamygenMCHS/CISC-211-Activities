@@ -347,4 +347,4 @@ Key: race
 Encrypted text: 347*
 Decrypted text: AUTO
 ```
-**4.) A YouTube video explaining the code (MM:SS):** https://www.youtube.com/watch?v=[VideoID]
+**4.) A YouTube video explaining the code (09:25):** https://www.youtube.com/watch?v=T1XH4szUHnI
